@@ -16,9 +16,14 @@ First one is directly copying DiskUsage.sh files code to your terminal and execu
 Second one is:
 Execute the code below on your terminal.
 >**_git clone https://github.com/BahaC/Linux-Zenity-DiskUsageGUI.git_**
+
 if you are in a directory where project is downloaded, 
+
 >**_cd Linux-Zenity-DiskUsageGUI_**
+
 execute this code and get inside of project, then
+
 >**_bash DiskUsage.sh_**
+
 execute code above to run the project
 
