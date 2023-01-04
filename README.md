@@ -8,4 +8,5 @@ In case if your pc doesn't have zenity defaultly on your operating system, you c
 to download zenity. <br />
 > **_"sudo apt-get install -y zenity"_**
 After downloading zenity and its dependencies, you can open your project, but with two ways.
+
 You can see the explanation video [clicking here.](https://www.youtube.com/watch?v=rPkL-R-LdME)
